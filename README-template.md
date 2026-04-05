@@ -30,10 +30,10 @@ View a fully responsive blog card layout on mobile, tablet, and desktop screens.
 Interact with buttons, links, and any call-to-action elements smoothly.
 
 ## Screenshot
-![Screenshot of the project]()
- full-height or cropped screenshot. Update the file path accordingly.
+![Screenshot of the project](assets/images/readme_md.jpg)
 
-Links
+## Links
+
 Solution URL: [not yet deployed]
 Live Site URL: [not yet deployed]
 
