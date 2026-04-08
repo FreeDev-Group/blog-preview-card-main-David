@@ -31,10 +31,10 @@ Interact with buttons, links, and any call-to-action elements smoothly.
 
 ## Screenshot
 #  Desktop
-![Desktop Preview](.assets/images/Screenshot_2desktop_card.png)
+![Desktop Preview](./assets/images/Screenshot_1_card_desktop.png)
 
 ###  Mobile
-![Mobile Preview](.assets/images/Screenshot_1mobile_card.png.)
+![Mobile Preview](./assets/images/Screenshot_3_card_mobile.png)
 
 ## Links
 
