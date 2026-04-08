@@ -30,7 +30,11 @@ View a fully responsive blog card layout on mobile, tablet, and desktop screens.
 Interact with buttons, links, and any call-to-action elements smoothly.
 
 ## Screenshot
-![Screenshot of the project](assets/images/readme_md.jpg)
+#  Desktop
+![Desktop Preview](.assets/images/Screenshot_2desktop_card.png)
+
+###  Mobile
+![Mobile Preview](.assets/images/Screenshot_1mobile_card.png.)
 
 ## Links
 
@@ -91,12 +95,13 @@ What didn’t work well: None, it was mostly guidance and suggestions.
 
 ## Author
 
-Name: David Mumeme
-Frontend Mentor: @David-max-tech
-Twitter: @David mumeme
+- GitHub: [David-max-tech](https://github.com/David-max-tech)
+- Frontend Mentor: [David-max-tech](https://www.frontendmentor.io/profile/David-max-tech)
+- Twitter - [@David Mumeme]
 
 ## Acknowledgments
 
-Thanks to Frontend Mentor for providing this challenge and guidance.
-Inspiration from other developers’ solutions on Frontend Mentor.
-Personal mentors and peers who gave feedback on responsive design.
+- [Michael Burns](https://michaelkentburns.com/) Thanks to Michael Burns for supporting this project.  
+- [Salomon mwilo](https://github.com/Salomonmwilo) – mentor who provided valuable feedback and advice.  
+- [FreeDev Group my team](https://github.com/FreeDev-Group) – for providing resources, inspiration, and a collaborative environment.  
+- [Frontend Mentor](https://www.frontendmentor.io) – for the challenge and design mockups.  
